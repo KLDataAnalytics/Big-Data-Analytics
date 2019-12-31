@@ -1,0 +1,99 @@
+
+? The lesion is surrounded by grade------- perifocal brain edema showing low signal in T1 and high signal in T2 WIs. The lesion and edema exert a mass effect in the form of -------, ----------, ----------
+? Normal posterior fossa (if the lesion is not in the posterior fossa).
+? Scanned Para nasal sinuses are clear 
+OR	Scanned Para nasal sinuses showed mucosal thickening in the  ----,------ (mention the name of the affected sinuses ) denoting sinusitis.
+
+?Space occupying lesion
+Metastatic deposits
+? Multiple well defined SOLs are seen in  -----[mention the site of the  
+      lesions] [cerebral hemisphere, both hemisphere, cerebellum, brain stem,   
+      infratentonial, supratentorial,  both……].
+?The lesions range in size between -------[the smallest lesion] and -------[the 
+       largest lesion] and showed -------- [mention the pattern of enhancement. 
+       The largest lesion measures -----  x -----  cm in maximal diameters and is 
+       located in ---- [mention the site of the largest lesion]. 
+? The lesions are surrounded by variable degrees of perifocal brain edema showing low signal in T1 and high signal in T2 WIs. The lesions and edema exert a mass effect in the form of -------, -------, ------
+? Normal posterior fossa [if no lesions in the posterior fossa].
+? Scanned Para nasal sinuses are clear 
+OR 	Scanned Para nasal sinuses showed mucosal  thickening in the --,------ (mention the name of the affected sinuses ) denoting sinusitis.
+NB     A solitary metastatic deposit (a patient known to have primary 
+malignancy is described in the same way as glioma).
+Cyst
+?A well defined cystic  SOL is seen in the ------
+Ex.	Arachnoid cyst is usually present in the inferior temporal region 
+    	against the greater wing of the sphenoid bone.             
+Ex.	Epidermoid cyst is usually located in the cerebellopontine angle.
+Ex. 	Dermoid cyst is usually located in the midline and contains fat. 
+
+? The lesion measures -----X----- cm in maximal diameters and showed low signal in T1 and high signal in T2 WIs with no post contrast enhancement [if the patient was injected with IV contrast]
+
+NB		Matrix calcifications are not usually seen in MR images
+If present they may show low or high signal in T1 [depending on the mobility of the hydrogen protons], however they will show low signal in T2 WIs
+
+NB	Dermoid cysts usually contain fat, then you have to say that the lesion contains fat signal which appeared high in T1 and intermediate in T2 WIs.
+
+NB	Colloid cysts are usually diagnosed by their location in the midline plane in the region of the anterior part of the 3rd ventricle. 
+Colloid cyst can show any signal in T1 [hypo or hyperintense] and any signal in T2 [hypo or hyperintense] with no contrast enhancement. Sometimes marginal enhancement is seen in the cyst which shows low signal in T1 WIs.
+
+? Most of the cysts are not surrounded by edema, but they  exert a mass
+effect, then you have to mention the  manifestation of the mass effect in the form of ------, -----, ------.
+
+NB	Colloid cyst may be associated with hydrocephalus due to compression of the foramina of monro.
+NB	In cases of dermoid cysts please look for fat globules in the 
+subarachnoid spaces (sulci, fissures, cisterns) as well as in the 
+ventricles. If they are present this means that the cyst has ruptured into 
+the subarachnoid space. Fat globules will appear bright in T1 WIs
+
+NB	Hydatid cyst is described following the steps mentioned  for glioma.
+
+NB	In cases of porencephalic cyst you should mention it's communication 
+with the ventricular system.
+? Normal posterior fossa [if no lesions in the posterior fossa].
+? Scanned Para nasal sinuses are clear 
+OR 	Scanned Para nasal sinuses showed mucosal  thickening in the --,------ (mention the name of the affected sinuses ) denoting sinusitis.
+
+Acostic neuroma 
+? A well defined SOL is seen in the ------- [left or right] cerebello- pontine 
+     angle region extending inside the adjacent internal auditory canal which is 
+     widened [or not]
+?The lesion measures ---- x  ---- in maximal transverse diameters and shows 
+low or intermediate signal in T1 WIs and high signal in T2 WIs with     homogenous or heterogenous pattern of contrast enhancement.   
+       The lesion is associated [or not] with widening ± pressure erosion of the 
+       ipsilateral internal auditory canal.
+
+  Crainiopharyngioma 
+? A well defined partly cystic and partly solid SOL is seen in the supra sellar 
+     area with it's main bulk exactly in the midline plane [or slightly to the left or 
+     right of the midline]
+? The lesion measures ---- x  ---- in maximal transverse diameters   
+The cystic component showed low signal in T1 and high signal in T2 WIs  while the solid component  showed intermediate signal in both T1 and T2 WIs with homogenous or heterogenous pattern of contrast enhancement.   
+
+NB	The cystic component may show high signal in T1 and T2 WIs due to its high protein content [this finding can help in the diagnosis of carniopharyngioma] 
+
+NB	Note that the enhancement in craniopharyngioma is variable, the cystic component usually shows marginal or no enhancement while the solid component usually shows homogenous or heterogenous
+Enhancement. The foci of calcification may not be seen on MR images.           
+? Usually there is no edema, but mass effect is may be present in the form 
+	of compression of the 3rd ventricle with consequent obstructive hydrocephalic  changes of both lateral ventricles. 
+
+NB    The lesion may extend inside the sella [best seen in coronal images]or 
+may extend into the para sellar area or even into the posterior fossa via 
+the pre pontine cistern  (rare)… These extensions should be mentioned 
+? Normal posterior fossa. If the lesion has extended into the posterior fossa   
+      then you  can say : No evidence of cerebellar or brain stem parenchymal 
+      lesions
+? Scanned Para nasal sinuses are clear 
+OR 	Scanned Para nasal sinuses showed mucosal  thickening in the --,------ (mention the name of the affected sinuses ) denoting sinusitis.
+
+Space occupying lesion
+Suprasellar meningioma, dermoid, ….. 
+are described following the steps mentioned for craniopharengioma with careful attention to the difference in the enhancement pattern and the degree of mass effect as well as the variable extensions.
+Intrasellar pituitary adenoma
+? A well defined intrasellar SOL is seen extending (or not) into the supra   
+      sellar cistern.
+? The lesion measures ----x ----x ---- cm in maximal diameters and shows 
+      intermediate signal in T1 and T2 WIs with homogenous or heterogenous 
+      pattern of enhancement [mention the type of enhancement].
+
+NB	The extensions of the lesion should be mentioned in details specially   the supra sellar extension with obliteration of the suprasellar cistern [if present best seen in the coronal images], compression of the hypothalamus [also seen in the coronal images better than CT scan] Extension into the suprasellar area may also compress and streach the optic chiasm. These findings should be mentioned in the report.
+Parasellar extension into the cavernous sinuses and affection of the internal carotid arteries should be mentioned

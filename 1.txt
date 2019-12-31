@@ -1,0 +1,117 @@
+Brain MRI Reports
+
+
+?Item to be fulfilled:
+?	Ventricular system
+?	Mid line structures
+?	Cerebral parenchyma
+?	Posterior fossa structures 
+?	Cortical sulci and extra axial CSF spaces
+?	Para nasal sinuses 
+? Some of the expressions will be changed.
+
+Normal brain without contrast
+?Normal size and configuration of the ventricular system.
+? No mid line shift.
+? No intra cerebral or extra axial areas of abnormal signal.
+? Normal posterior fossa.
+OR 	Normal appearance of the brain stem and cerebellum.
+OR 	No evidence of posterior fossa abnormalities.
+? Scanned para nasal sinuses are clear.
+
+Normal brain with contrast 
+?Normal size and configuration of the ventricular system.
+? No mid line shift.
+? No intra cerebral or extra axial areas of abnormal signal or enhancing 
+lesions.
+? Normal posterior fossa.
+OR 	Normal appearance of the brain stem and cerebellum.
+OR 	No evidence of posterior fossa abnormalities.
+? Scanned paranasal sinuses are clear.
+
+
+Normal Brain [Trauma]
+?Normal size and configuration of the ventricular system.
+? No mid line shift.
+? No intra cerebral or extra axial hemorrhage or blood degeneration   
+      products.
+?Normal posterior fossa.
+OR 	Normal appearance of the brain stem and cerebellum.
+OR 	No evidence of posterior fossa abnormalities.
+? Scanned paranasal sinuses are clear.
+? No fracture lines seen.
+NB 	If fractures are present mention the site (frontal, parietal, …) and type 
+(fissure, depressed, comminuted,….). when subgalial hematoma is 
+present it should be mentioned.
+
+Normal Brain (Sinusitis)
+? Normal size and configuration of the ventricular system.
+? No mid line shift.
+? No intra cerebral or extra axial areas of abnormal signals.
+? Normal posterior fossa.
+OR 	Normal appearance of the brain stem and cerebellum.
+OR 	No evidence of posterior fossa abnormalities.
+? Partial or total obliteration of ........ sinuses by mucosal thickening showing  
+      low signal in T1 and high signal in T2WI denoting sinusitis [mention the   
+      affected sinuses, maxillary, ethmoidal...,].
+
+
+
+
+ 
+?Normal brain old age 
+? Symmetrical dilatation of the ventricular system with prominence of the   
+       extraaxial CSF space.
+? No mid line shift.
+? No intra cerebral or extra axial areas of abnormal signal.
+? Normal posterior fossa.
+OR 	Normal appearance of the brain stem and cerebellum.
+OR 	No evidence of posterior fossa abnormalities.
+? Scanned para nasal sinuses are clear.
+
+Abnormal Brain
+To describe a lesion you should mention the following points:
+•	Definition [well defined, ill- defined]
+•	Shape [oval, rounded, irregular…]
+•	Size [-----x------x------ cm in maximal AP, transverse and cranio caudal diameters respectively]
+•	Site [intra axial, extra axial, frontal,parietal, …..]
+•	Surrounding edema [If present]
+•	Mass effect which includes 
+o	effacement of the cortical sulci
+o	Compression of the ventricle
+o	Midline shift
+•	Signal intensity in T1, T2 and FLAIR images 
+       possibilities include: 
+Low   T1      high T2 [many lesions]
+            			High T1       high T2  [subacute blood]
+             			Low T1        low T2  [vessels, calcium, ...]
+             			High T1       intermediate T2 [fat,...]
+             			Intermediate T1 and T2 [some lesions]
+
+
+
+ ? Intra cerebral hemorrhage
+? A well defined, oval shaped area of blood signal is seen in the …..       
+       [Mention the site of the lesion]. It showed ……….
+•	If blood is recent [intermediate signal in T1WIs with very dark signal in T2WIs].
+•	Early sub acute blood [high signal in T1WIs and dark signal on T2WIs] [intracellular met HB].
+•	Late sub acute blood [high signal in all pulse sequences] [Extracellular met HB].
+•	Chronic blood [very dark signal in all pulse sequences] [hemosidren].
+NB   In cases of hematoma with mixed signal either you say 
+•	The hematoma showed mixed signal intensities , its major part showed ….. in T1WIs and ……. In T2WIs, while the smaller part showed …. In T1WIs and …… in T2WIs.
+OR 	? The hematoma showed mixed signal intensities, it's central part   
+                 showed …… in T1WIs and ….. in T2WIs while it's peripheral part   
+                 showed …… in T1WIs and …. In T2WIs.
+
+NB 	In case you see a black line surrounding the hematoma you say a rim 
+of persistent low signal in all pulse sequences is seen surrounding the hematoma denoting hemosidren formation.
+
+NB 	A narrow zone of peripheral brain edema my be identified around the 
+hematoma showing low signal in T1WIs and high signal in T2WIs.
+
+ ?The lesion measures ----x ----x --- cm maximal AP, transverse and 
+     craniocaudal diameters respectively.
+?The lesion exerts a mass effect in the form of effacement of the cortical 
+      sulci ? compression of the ipsilateral ventricle ? contra lateral shift of the   
+      midline structures.
+?Normal posterior fossa (if the lesion is not in the posterior fossa).
